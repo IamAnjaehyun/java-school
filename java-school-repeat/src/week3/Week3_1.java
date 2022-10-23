@@ -2,7 +2,7 @@ package week3;
 
 import java.util.Scanner;
 
-public class week3_1 {
+public class Week3_1 {
     public static void main(String[] args) {
         //10개의 수를 입력받아
 

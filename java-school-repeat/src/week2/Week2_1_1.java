@@ -2,7 +2,7 @@ package week2;
 
 import java.util.Scanner;
 
-public class week2_1_1 {
+public class Week2_1_1 {
     public static void main(String[] args) {
         System.out.println("두 수를 입력하세요.");
 

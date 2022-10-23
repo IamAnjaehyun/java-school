@@ -1,7 +1,7 @@
 package week4;
 
 
-public class week4_1 {
+public class Week4_1 {
 /**
  * B - 장애인에게 도움을 줄 수 있는 어플리케이션
 

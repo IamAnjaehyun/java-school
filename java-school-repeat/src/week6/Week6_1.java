@@ -2,7 +2,7 @@ package week6;
 
 import java.util.Arrays;
 //Lotto
-public class week6_1 {
+public class Week6_1 {
     public static void main(String[] args) {
         int i;
         int j[] = new int[7];

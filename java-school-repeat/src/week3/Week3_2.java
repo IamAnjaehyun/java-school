@@ -2,7 +2,7 @@ package week3;
 
 import java.util.Scanner;
 
-public class week3_2 {
+public class Week3_2 {
     public static void main(String[] args) {
         int KUK[] = new int[11];
         int MAT[] = new int[11];

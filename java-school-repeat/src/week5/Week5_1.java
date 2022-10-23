@@ -4,14 +4,14 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class week5_1 {
+public class Week5_1 {
     public static void main(String[] args) {
         String str = "";
         int sco[][] = new int[20][6];
         int r = 0, c = 0, tot = 0, rank = 0;
 
         try {
-            File fin = new File("score_in.txt");
+            File fin = new File("C:\\Users\\Public\\coding\\java-school-master\\java-school-repeat\\score_in.txt");
             Scanner sc = new Scanner(fin);
 
             while (sc.hasNextLine()) {
