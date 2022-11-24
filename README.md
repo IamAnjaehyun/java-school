@@ -1,10 +1,11 @@
 # java-school
 
-학교에서 수업한 내용 및 시험대비 공부~!
+학교에서 자바 응용프로그램 과목을 수강하며 <br>
+수업시간에 작성한 내용 및 중간고사 공부한 부분입니다.
 
 
-* [ ] https://wikidocs.net/229
+* [ ] PPT - https://wikidocs.net/229
 
-* [ ] 점프 투 자바 2,3,6장 !!
+* [ ] 중간고사 범위 - 점프 투 자바 2,3,6장 !!
 
-* [ ] 수업은 "명품JAVA Programming"
+* [ ] 교재 - "명품JAVA Programming"
